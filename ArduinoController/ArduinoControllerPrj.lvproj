@@ -2,6 +2,7 @@
 <Project Type="Project" LVVersion="22308000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="My Computer" Type="My Computer">
+		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.tcp.enabled" Type="Bool">false</Property>
@@ -12,6 +13,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="ArduinoOperator.lvclass" Type="LVClass" URL="../Workers/ArduinoOperator/ArduinoOperator.lvclass"/>
+		<Item Name="Timer.lvclass" Type="LVClass" URL="../Workers/Timer/Timer.lvclass"/>
 		<Item Name="Launcher - ArduinoOperator.vi" Type="VI" URL="../Launchers/Launcher - ArduinoOperator.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="MsgTypedef.ctl" Type="VI" URL="../MsgTypedef.ctl"/>
