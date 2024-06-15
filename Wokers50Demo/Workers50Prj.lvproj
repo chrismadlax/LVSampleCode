@@ -16,6 +16,7 @@
 		<Item Name="Launcher - TopUI.vi" Type="VI" URL="../Launchers/Launcher - TopUI.vi"/>
 		<Item Name="ooxxMeter.lvclass" Type="LVClass" URL="../Workers/ooxxMeter/ooxxMeter.lvclass"/>
 		<Item Name="TopUI.lvclass" Type="LVClass" URL="../Workers/TopUI/TopUI.lvclass"/>
+		<Item Name="GraphShow.lvclass" Type="LVClass" URL="../Workers/GraphShow/GraphShow.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
