@@ -1,0 +1,10 @@
+C:\Users\sylvia\Documents\VSCODE\myClass2\bin\Debug\netstandard2.0\myClass2.deps.json
+C:\Users\sylvia\Documents\VSCODE\myClass2\bin\Debug\netstandard2.0\myClass2.dll
+C:\Users\sylvia\Documents\VSCODE\myClass2\bin\Debug\netstandard2.0\myClass2.pdb
+C:\Users\sylvia\Documents\VSCODE\myClass2\obj\Debug\netstandard2.0\myClass2.csproj.AssemblyReference.cache
+C:\Users\sylvia\Documents\VSCODE\myClass2\obj\Debug\netstandard2.0\myClass2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sylvia\Documents\VSCODE\myClass2\obj\Debug\netstandard2.0\myClass2.AssemblyInfoInputs.cache
+C:\Users\sylvia\Documents\VSCODE\myClass2\obj\Debug\netstandard2.0\myClass2.AssemblyInfo.cs
+C:\Users\sylvia\Documents\VSCODE\myClass2\obj\Debug\netstandard2.0\myClass2.csproj.CoreCompileInputs.cache
+C:\Users\sylvia\Documents\VSCODE\myClass2\obj\Debug\netstandard2.0\myClass2.dll
+C:\Users\sylvia\Documents\VSCODE\myClass2\obj\Debug\netstandard2.0\myClass2.pdb
